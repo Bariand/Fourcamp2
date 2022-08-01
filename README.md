@@ -1,6 +1,6 @@
 # Fourcamp2
 
-O segundo conjunto de exercícios de para o Foucamp. Estes são um pouco mais complexos e destinam-se a ensinar tópicos relacionados a OOP e a linguagem C#.
+O segundo conjunto de exercícios para o Foucamp. Estes são um pouco mais complexos e destinam-se a ensinar tópicos relacionados a OOP e a linguagem C#.
 
 .........................................................................................................................................................................
 
